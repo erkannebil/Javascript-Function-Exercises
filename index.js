@@ -211,7 +211,7 @@ Aşağdakileri notHesapla fonksiyonunda yap.
  70-79 arasında 'C aldın'
  60-69 arasında 'D aldın'
  daha aşağıda 'F aldın'
- dönün
+ dönün 
 */
 function notHesapla(sınavSonucu) {
   if (sınavSonucu >= 90 && sınavSonucu <= 100) {
